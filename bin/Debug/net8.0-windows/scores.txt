@@ -1,0 +1,5 @@
+Barış;435
+Ahmet;374
+denemeyap;356
+Ayşe;345
+Deneme;338
